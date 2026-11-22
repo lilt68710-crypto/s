@@ -94,3 +94,4 @@ public class WitherfangItem extends Item {
 				SoundEvents.WITHER_AMBIENT, SoundSource.PLAYERS, 1.0F, 0.8F);
 	}
 }
+
