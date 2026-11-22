@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "witherfang",
+  "version": "${version}",
+  "name": "Witherfang",
+  "description": "A wither-powered sword that fires wither skulls and summons wither skeleton minions.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.witherfang.Witherfang"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
